@@ -1,4 +1,4 @@
 meghalayaoptico
 ===============
 
-Meghalaya Optico Websit
+Meghalaya Optico Website
